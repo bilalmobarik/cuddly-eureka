@@ -1,17 +1,13 @@
-
 body {
-    min-height: 100vh !important;
-    display: flex !important;
-    align-items: center !important;
-    text-align: center !important;
-}
-
-h1 {
-    color: #003300;
-    font-size: 100px;
+    width: 50vh;
+    height: 50vh;
+    background-color: white;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     text-align: center;
+    margin: auto;
 }
-
-p{
-    text-align: center;
 
