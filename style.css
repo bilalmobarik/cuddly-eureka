@@ -1,6 +1,5 @@
 
 body {
-    justify-content: space-around !important;
     min-height: 100vh !important;
     display: flex !important;
     align-items: center !important;
@@ -10,5 +9,9 @@ body {
 h1 {
     color: #003300;
     font-size: 100px;
-    text-align: center !important;
+    text-align: center;
 }
+
+p{
+    text-align: center;
+
